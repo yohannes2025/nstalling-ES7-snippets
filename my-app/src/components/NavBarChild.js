@@ -1,4 +1,3 @@
-// NavBarChild.js
 import React from "react";
 
 const NavBarChild = ({ handleSubmit, handleChange }) => {

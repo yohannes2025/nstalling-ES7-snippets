@@ -1,0 +1,25 @@
+/* NavBarForm.module.css */
+.NavBar {
+    padding: 20px;
+    background-color: #f0f0f0; /* Light gray background */
+    border-bottom: 1px solid #ccc; /* Gray border at the bottom */
+}
+
+h1 {
+    font-size: 24px;
+    color: #333; /* Dark gray text */
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
